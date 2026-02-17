@@ -26,6 +26,15 @@ ap-south-1 (Mumbai)
 3. Attached Internet Gateway
 4. Configured Route Table (0.0.0.0/0 → IGW)
 5. Launched EC2 instance
+
+##EC2 Configuration Commands
+
+```bash
+sudo dnf update -y
+sudo dnf install httpd -y
+sudo systemctl start httpd
+sudo systemctl enable httpd
+
 6. Installed Apache
 7. Configured Security Group
 
