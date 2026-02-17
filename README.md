@@ -17,7 +17,7 @@ ap-south-1 (Mumbai)
 
 ##Architecture Diagram
 
-![Architecture](Achitecture.png)
+![Architecture](Architecture.png)
 
 ##Deployment Steps
 
